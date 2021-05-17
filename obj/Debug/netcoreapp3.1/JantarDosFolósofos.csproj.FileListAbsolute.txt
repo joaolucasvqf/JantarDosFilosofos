@@ -1,0 +1,13 @@
+C:\Projetos\JantarDosFolósofos\bin\Debug\netcoreapp3.1\JantarDosFolósofos.exe
+C:\Projetos\JantarDosFolósofos\bin\Debug\netcoreapp3.1\JantarDosFolósofos.deps.json
+C:\Projetos\JantarDosFolósofos\bin\Debug\netcoreapp3.1\JantarDosFolósofos.runtimeconfig.json
+C:\Projetos\JantarDosFolósofos\bin\Debug\netcoreapp3.1\JantarDosFolósofos.runtimeconfig.dev.json
+C:\Projetos\JantarDosFolósofos\bin\Debug\netcoreapp3.1\JantarDosFolósofos.dll
+C:\Projetos\JantarDosFolósofos\bin\Debug\netcoreapp3.1\JantarDosFolósofos.pdb
+C:\Projetos\JantarDosFolósofos\obj\Debug\netcoreapp3.1\JantarDosFolósofos.csprojAssemblyReference.cache
+C:\Projetos\JantarDosFolósofos\obj\Debug\netcoreapp3.1\JantarDosFolósofos.AssemblyInfoInputs.cache
+C:\Projetos\JantarDosFolósofos\obj\Debug\netcoreapp3.1\JantarDosFolósofos.AssemblyInfo.cs
+C:\Projetos\JantarDosFolósofos\obj\Debug\netcoreapp3.1\JantarDosFolósofos.csproj.CoreCompileInputs.cache
+C:\Projetos\JantarDosFolósofos\obj\Debug\netcoreapp3.1\JantarDosFolósofos.dll
+C:\Projetos\JantarDosFolósofos\obj\Debug\netcoreapp3.1\JantarDosFolósofos.pdb
+C:\Projetos\JantarDosFolósofos\obj\Debug\netcoreapp3.1\JantarDosFolósofos.genruntimeconfig.cache
